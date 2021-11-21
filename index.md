@@ -6,7 +6,7 @@ It has helped me to identify and explain the architecture, structure, and functi
 
 I am able to assess critically the implications of key vulnerabilities in software and network security and how to address these issues. 
 
-- [Project 1 Title](example1)
+
 ---
 
 ### Network and Information Security Management
