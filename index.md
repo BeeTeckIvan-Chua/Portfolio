@@ -45,11 +45,6 @@
 
 ---
 
-### Principles of Digital Forensics and Cyber Law
-
-- [Project 1 Title](http://example.com/)
-
----
 ### MSc Cyber Security Project
 
 - [Project 1 Title](http://example.com/)
