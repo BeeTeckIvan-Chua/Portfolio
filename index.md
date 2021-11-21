@@ -7,45 +7,52 @@
 ---
 
 ### Network and Information Security Management
-
+<img src="images/network_mgmt.png?raw=true"/>
 - [Project 1 Title](example1)
 
 ---
 ### Information Risk Management
+<img src="images/info_risk.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
 ### Secure Software Development
+<img src="images/SecureSoftware.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
 ---
 
 ### Secure Systems Architecture
+<img src="images/SystemsArchitecture.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
 ---
 
 ### The Human Factor
+<img src="images/HumanFactor.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
 ---
 
 ### Principles of Digital Forensics and Cyber Law
+<img src="images/DigitalForensics.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
 ---
 
 ### Research Methods and Professional Practice
+<img src="images/ResearchMethods.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
 ---
 
 ### MSc Cyber Security Project
+<img src="images/SecurityProject.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
