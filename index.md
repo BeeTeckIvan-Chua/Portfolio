@@ -1,10 +1,7 @@
 ## Msc Cyber Security Portfolio
 ---
 ### Launching into Cyber Security
-
-It has helped me to identify and explain the architecture, structure, and functionality of basic components of computer systems, considering the cybersecurity implications.
-
-I am able to assess critically the implications of key vulnerabilities in software and network security and how to address these issues. 
+<img src="images/IntoCyberSecurity.png?raw=true"/>
 
 - [Project 1 Title](example1)
 ---
@@ -53,7 +50,7 @@ I am able to assess critically the implications of key vulnerabilities in softwa
 - [Project 1 Title](http://example.com/)
 
 ---
-### MSc Cyber Securty Project
+### MSc Cyber Security Project
 
 - [Project 1 Title](http://example.com/)
 
