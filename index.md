@@ -2,7 +2,11 @@
 ---
 ### Launching into Cyber Security
 
-[Project 1 Title](/sample_page)
+It has helped me to identify and explain the architecture, structure, and functionality of basic components of computer systems, considering the cybersecurity implications.
+
+I am able to assess critically the implications of key vulnerabilities in software and network security and how to address these issues. 
+
+- [Project 1 Title](/sample_page)
 ---
 
 ### Network and Information Security Management
