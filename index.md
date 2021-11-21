@@ -3,7 +3,7 @@
 ### Launching into Cyber Security
 <img src="images/IntoCyberSecurity.png?raw=true"/>
 
-- [Launching into Cyber Security](LaunchingintoCyberSecurity.pdf)
+- [Launching into Cyber Security](/pdf/LaunchingintoCyberSecurity.pdf)
 ---
 
 ### Network and Information Security Management
