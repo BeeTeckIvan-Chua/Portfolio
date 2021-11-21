@@ -3,7 +3,7 @@
 ### Launching into Cyber Security
 <img src="images/IntoCyberSecurity.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+
 - [Launching into Cyber Security](/pdf/LaunchingintoCyberSecurity.pdf)
 
 ---
