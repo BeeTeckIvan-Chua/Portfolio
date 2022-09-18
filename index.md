@@ -28,7 +28,7 @@
 ### Secure Systems Architecture
 <img src="images/SystemsArchitecture.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [SSA](https://beeteckivan-chua.github.io/Portfolio/ssa/ssa.html)
 
 ---
 
