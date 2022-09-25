@@ -49,7 +49,7 @@
 ### Research Methods and Professional Practice
 <img src="images/ResearchMethods.png?raw=true"/>
 
-- [RMPP]((https://beeteckivan-chua.github.io/Portfolio/rmpp/rmpp.html)
+- [RMPP](https://beeteckivan-chua.github.io/Portfolio/rmpp/rmpp.html)
 
 ---
 
