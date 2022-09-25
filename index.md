@@ -10,12 +10,12 @@
 ### Information Risk Management
 <img src="images/info_risk.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [IRM](https://beeteckivan-chua.github.io/Portfolio/irm/irm.html)
 
 ### Secure Software Development
 <img src="images/SecureSoftware.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [SSD](https://beeteckivan-chua.github.io/Portfolio/ssd/ssd.html)
 
 ---
 
@@ -29,7 +29,7 @@
 ### The Human Factor
 <img src="images/HumanFactor.png?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
+- [THF](https://beeteckivan-chua.github.io/Portfolio/thf/thf.html)
 
 ---
 
