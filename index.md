@@ -7,12 +7,6 @@
 - [Launching into Cyber Security](/pdf/LaunchingintoCyberSecurity.pdf)
 
 ---
-
-### Network and Information Security Management
-<img src="images/network_mgmt.png?raw=true"/>
-- [Project 1 Title](example1)
-
----
 ### Information Risk Management
 <img src="images/info_risk.png?raw=true"/>
 
@@ -34,13 +28,6 @@
 
 ### The Human Factor
 <img src="images/HumanFactor.png?raw=true"/>
-
-- [Project 1 Title](http://example.com/)
-
----
-
-### Principles of Digital Forensics and Cyber Law
-<img src="images/DigitalForensics.png?raw=true"/>
 
 - [Project 1 Title](http://example.com/)
 
